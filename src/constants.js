@@ -1,1 +1,1 @@
-export const DB_NAME = "productionApp"
+export const DB_NAME = "Production_APP"
